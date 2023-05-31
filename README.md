@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on nothing :)
 
-- 👨‍💻 All of my public projects are available [https://github.com/j3r00/j3r00](https://github.com/j3r00/j3r00)
+- 👨‍💻 All of my public projects are available [https://github.com/j3r00](https://github.com/j3r00/)
 
 - 📫 You can reach me on Discord **ZackenBaron#0001**
 
